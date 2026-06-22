@@ -4,6 +4,6 @@ No1 = input()
 print("Enter second number : ")
 No2 = input()
 
-Ans = No1 + No2
+Ans = int(No1) + int(No2)
 
 print("Addition is : ",Ans)

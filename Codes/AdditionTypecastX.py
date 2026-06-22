@@ -1,8 +1,8 @@
 print("Enter first number : ")
-No1 = input()
+No1 = int(input())
 
 print("Enter second number : ")
-No2 = input()
+No2 = int(input())
 
 Ans = No1 + No2
 
